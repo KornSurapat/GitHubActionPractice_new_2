@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "kornapp-a98f9",
+    "CICD": "cicd-42c48",
+    "CICD2": "kornapp-a98f9"
+  },
+  "targets": {},
+  "etags": {}
 }
